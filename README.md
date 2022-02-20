@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -🖤  Fall in learning 
--🥺  i am nowhere my presence make me everwher
+-🥺  i am nowhere my presence make me everwhere
 
 <!---
 Hyper1247/Hyper1247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
